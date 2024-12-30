@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;AdvJavaBatchC2-02&apos; to &apos;AdvJavaBatchC-02&apos;" description="Rename resource &apos;AdvJavaBatchC2-02&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/AdvJavaBatchC2-02" name="AdvJavaBatchC-02" stamp="1733975672634" updateReferences="true"/>
+</session>
